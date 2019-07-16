@@ -15,10 +15,10 @@ spring:
     host: 127.0.0.1
     port: 6379
 env:
-  test888
+  test666
 girl:
-  name: mo
-  age: 17
+  name: lili
+  age: 18
 feign:
   client:
     config:
