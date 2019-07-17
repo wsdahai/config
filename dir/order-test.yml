@@ -15,9 +15,9 @@ spring:
     host: 127.0.0.1
     port: 6379
 env:
-  test666
+  test520
 girl:
-  name: lili
+  name: baobao
   age: 18
 feign:
   client:
