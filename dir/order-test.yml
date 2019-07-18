@@ -15,7 +15,7 @@ spring:
     host: 127.0.0.1
     port: 6379
 env:
-  test610
+  test520
 girl:
   name: baobao
   age: 18
